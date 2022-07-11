@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EmployeeManagement.models
+namespace EmployeeManagement.Models
 {
     public class Department
     {
